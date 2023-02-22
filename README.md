@@ -1,4 +1,4 @@
-# aurelia-shortcut-windows
+# aurelia-vscode-shortcut-windows
 
 I use this method to quickly create new aurelia components while I work in VSCode. It also binds a hotkey `Ctrl + Shift + Alt + 1` for you to activate it.
 You're able to use this hotkey when you select a folder in the VSCode File explorer that you want to component to be created inside of. When the hotkey is activated it will ask for the name of the component, preferrably use spinal-case like in the Aurelia Docs. It will then create a folder with the component-name, and three files in the created folder (component-name.ts, component-name.html, component-name.scss).
